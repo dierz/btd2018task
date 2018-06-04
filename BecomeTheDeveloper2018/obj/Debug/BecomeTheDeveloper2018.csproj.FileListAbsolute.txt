@@ -1,0 +1,10 @@
+C:\Users\dierz\Documents\Visual Studio 2017\Projects\BecomeTheDeveloper2018\BecomeTheDeveloper2018\obj\Debug\BecomeTheDeveloper2018.csprojResolveAssemblyReference.cache
+C:\Users\dierz\Documents\Visual Studio 2017\Projects\BecomeTheDeveloper2018\BecomeTheDeveloper2018\obj\Debug\BecomeTheDeveloper2018.Form1.resources
+C:\Users\dierz\Documents\Visual Studio 2017\Projects\BecomeTheDeveloper2018\BecomeTheDeveloper2018\obj\Debug\BecomeTheDeveloper2018.Properties.Resources.resources
+C:\Users\dierz\Documents\Visual Studio 2017\Projects\BecomeTheDeveloper2018\BecomeTheDeveloper2018\obj\Debug\BecomeTheDeveloper2018.csproj.GenerateResource.cache
+C:\Users\dierz\Documents\Visual Studio 2017\Projects\BecomeTheDeveloper2018\BecomeTheDeveloper2018\obj\Debug\BecomeTheDeveloper2018.csproj.CoreCompileInputs.cache
+C:\Users\dierz\Documents\Visual Studio 2017\Projects\BecomeTheDeveloper2018\BecomeTheDeveloper2018\bin\Debug\BecomeTheDeveloper2018.exe.config
+C:\Users\dierz\Documents\Visual Studio 2017\Projects\BecomeTheDeveloper2018\BecomeTheDeveloper2018\bin\Debug\BecomeTheDeveloper2018.exe
+C:\Users\dierz\Documents\Visual Studio 2017\Projects\BecomeTheDeveloper2018\BecomeTheDeveloper2018\bin\Debug\BecomeTheDeveloper2018.pdb
+C:\Users\dierz\Documents\Visual Studio 2017\Projects\BecomeTheDeveloper2018\BecomeTheDeveloper2018\obj\Debug\BecomeTheDeveloper2018.exe
+C:\Users\dierz\Documents\Visual Studio 2017\Projects\BecomeTheDeveloper2018\BecomeTheDeveloper2018\obj\Debug\BecomeTheDeveloper2018.pdb
